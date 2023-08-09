@@ -1,6 +1,6 @@
 # travelapp
 
-A new Flutter project.
+Full travel app with Cubit State management.
 
 ## Getting Started
 
